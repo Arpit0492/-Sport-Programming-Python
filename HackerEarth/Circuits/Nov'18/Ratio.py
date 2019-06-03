@@ -60,6 +60,7 @@ for i in range(T):
 
             if count_b >= count_B:
                 if count_a >= count_A:
+                    print()
 
             # if count_a != 0 and count_b != 0 and (count_a + count_b) >= (count_A + count_B):
             #     count_a -= count_A
