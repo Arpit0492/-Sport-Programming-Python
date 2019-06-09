@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20011787-ee1c-416a-93a5-bb0e32f60f85" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/CodeGladiators/elections.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeGladiators/roadies.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compProg.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compProg.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code Chef/LongChallenge/JUNE19.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerEarth/Circuits/Nov'18/Ratio.py" beforeDir="false" afterPath="$PROJECT_DIR$/HackerEarth/Circuits/Nov'18/Ratio.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,20 +23,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodeGladiators/roadies.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Code Chef/LongChallenge/JUNE19.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="753">
+              <caret line="91" column="20" selection-start-line="91" selection-start-column="20" selection-end-line="91" selection-end-column="20" />
+              <folding>
+                <element signature="e#102#132#0" />
+                <element signature="e#163#1455#0" />
+                <element signature="e#1445#1508#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodeGladiators/elections.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.3/python_stubs/-1912469610/builtins.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+            <state relative-caret-position="318">
+              <caret line="468" column="4" selection-start-line="468" selection-start-column="4" selection-end-line="468" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -60,6 +61,9 @@
       <find>rotat</find>
       <find>rotate</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -83,6 +87,8 @@
         <option value="$PROJECT_DIR$/HackerEarth/Circuits/Nov'18/Ratio.py" />
         <option value="$PROJECT_DIR$/CodeGladiators/roadies.py" />
         <option value="$PROJECT_DIR$/CodeGladiators/elections.py" />
+        <option value="$PROJECT_DIR$/Code Chef/LongChallenge/PROXYC.py" />
+        <option value="$PROJECT_DIR$/Code Chef/LongChallenge/JUNE19.py" />
       </list>
     </option>
   </component>
@@ -94,8 +100,8 @@
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="877" />
+    <option name="width" value="1680" />
+    <option name="height" value="1027" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -104,7 +110,42 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sport-programming-python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sport-programming-python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sport-programming-python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sport-programming-python" type="462c0819:PsiDirectoryNode" />
+              <item name="Code Chef" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sport-programming-python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sport-programming-python" type="462c0819:PsiDirectoryNode" />
+              <item name="Code Chef" type="462c0819:PsiDirectoryNode" />
+              <item name="LongChallenge" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sport-programming-python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sport-programming-python" type="462c0819:PsiDirectoryNode" />
+              <item name="HackerEarth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sport-programming-python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sport-programming-python" type="462c0819:PsiDirectoryNode" />
+              <item name="HackerEarth" type="462c0819:PsiDirectoryNode" />
+              <item name="Circuits" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -131,7 +172,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.elections">
+  <component name="RunManager" selected="Python.PROXYC">
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -212,7 +253,7 @@
       <envs />
       <method />
     </configuration>
-    <configuration name="Que1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="PROXYC" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="compProg" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -220,12 +261,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HackerEarth/Python Challenge" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code Chef/LongChallenge" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerEarth/Python Challenge/Que1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code Chef/LongChallenge/JUNE19.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -391,19 +432,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Que1" />
       <item itemvalue="Python.Ratio" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.roadies" />
       <item itemvalue="Python.elections" />
+      <item itemvalue="Python.PROXYC" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.PROXYC" />
         <item itemvalue="Python.elections" />
         <item itemvalue="Python.roadies" />
         <item itemvalue="Python.Ratio" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.Que1" />
       </list>
     </recent_temporary>
   </component>
@@ -424,14 +465,14 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.13980465" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.14102565" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info id="Debug" order="3" weight="0.25625" />
+      <window_info id="Debug" order="3" weight="0.2026862" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Python Console" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32959184" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32959184" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
@@ -442,7 +483,7 @@
       <window_info anchor="right" id="Commander" order="2" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
-      <window_info active="true" anchor="right" id="Run" order="5" visible="true" weight="0.22649573" />
+      <window_info active="true" anchor="right" id="Run" order="5" visible="true" weight="0.23992674" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -452,13 +493,6 @@
     <entry file="file://$PROJECT_DIR$/secondA.ipynb" />
     <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-1798730815/_collections.py" />
     <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-1798730815/builtins.py" />
-    <entry file="file://$PROJECT_DIR$/Code Chef/SNAKPROC.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Code Chef/TEMPLELA.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -527,13 +561,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.3/python_stubs/-1912469610/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="528" column="4" selection-start-line="528" selection-start-column="4" selection-end-line="528" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodeGladiators/roadies.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -541,10 +568,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Code Chef/SNAKPROC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CodeGladiators/elections.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        <state relative-caret-position="150">
+          <caret line="10" column="61" lean-forward="true" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.3/python_stubs/-1912469610/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="468" column="4" selection-start-line="468" selection-start-column="4" selection-end-line="468" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code Chef/LongChallenge/JUNE19.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="753">
+          <caret line="91" column="20" selection-start-line="91" selection-start-column="20" selection-end-line="91" selection-end-column="20" />
+          <folding>
+            <element signature="e#102#132#0" />
+            <element signature="e#163#1455#0" />
+            <element signature="e#1445#1508#0" />
+          </folding>
         </state>
       </provider>
     </entry>
