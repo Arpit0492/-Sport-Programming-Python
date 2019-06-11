@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20011787-ee1c-416a-93a5-bb0e32f60f85" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Code Chef/LongChallenge/JUNE19.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code Chef/LongChallenge/JUNE19.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code Chef/LongChallenge/JUNE19.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,22 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Code Chef/LongChallenge/JUNE19.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="753">
-              <caret line="91" column="20" selection-start-line="91" selection-start-column="20" selection-end-line="91" selection-end-column="20" />
-              <folding>
-                <element signature="e#102#132#0" />
-                <element signature="e#163#1455#0" />
-                <element signature="e#1445#1508#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.3/python_stubs/-1912469610/builtins.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="468" column="4" selection-start-line="468" selection-start-column="4" selection-end-line="468" selection-end-column="4" />
+            <state relative-caret-position="588">
+              <caret line="100" selection-start-line="100" selection-end-line="114" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -98,7 +84,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="1027" />
@@ -110,42 +96,7 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="sport-programming-python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sport-programming-python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sport-programming-python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sport-programming-python" type="462c0819:PsiDirectoryNode" />
-              <item name="Code Chef" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sport-programming-python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sport-programming-python" type="462c0819:PsiDirectoryNode" />
-              <item name="Code Chef" type="462c0819:PsiDirectoryNode" />
-              <item name="LongChallenge" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sport-programming-python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sport-programming-python" type="462c0819:PsiDirectoryNode" />
-              <item name="HackerEarth" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sport-programming-python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sport-programming-python" type="462c0819:PsiDirectoryNode" />
-              <item name="HackerEarth" type="462c0819:PsiDirectoryNode" />
-              <item name="Circuits" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -462,7 +413,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.14102565" />
@@ -483,7 +434,7 @@
       <window_info anchor="right" id="Commander" order="2" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
-      <window_info active="true" anchor="right" id="Run" order="5" visible="true" weight="0.23992674" />
+      <window_info active="true" anchor="right" id="Run" order="5" visible="true" weight="0.30525032" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -591,13 +542,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Code Chef/LongChallenge/JUNE19.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="753">
-          <caret line="91" column="20" selection-start-line="91" selection-start-column="20" selection-end-line="91" selection-end-column="20" />
-          <folding>
-            <element signature="e#102#132#0" />
-            <element signature="e#163#1455#0" />
-            <element signature="e#1445#1508#0" />
-          </folding>
+        <state relative-caret-position="588">
+          <caret line="100" selection-start-line="100" selection-end-line="114" selection-end-column="9" />
         </state>
       </provider>
     </entry>

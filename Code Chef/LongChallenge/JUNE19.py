@@ -95,4 +95,21 @@ def RSIGNSBF():
         ans = 10 * pow(2, K-1, mod)
         print(ans % mod)
 
-RSIGNSBF()
+# RSIGNSBF()
+
+
+def CHEFING():
+    t = int(input())
+    for i in range(0, t):
+        tastiness_end, tastiness_start = [int(i) for i in input().split(' ')]
+
+        # K -> K + N - 1
+        unreachable_values = tastiness_start - 1
+        if tastiness_end < tastiness_start:
+            tastiness_start = tastiness_start - tastiness_end
+            tastiness_end = tastiness_end - 1
+            tastiness_times = tastiness_start // tastiness_end
+            unreachable_values = unreachable_values + (tastiness_start + (tastiness_start * tastiness_times) - (tastiness_end * ((tastiness_times * (tastiness_times + 1)) // 2)))
+        print(unreachable_values % 1000000007)
+
+CHEFING()
