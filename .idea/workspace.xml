@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20011787-ee1c-416a-93a5-bb0e32f60f85" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/HackerEarth/Circuits/June19.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerEarth/Circuits/June19.py" beforeDir="false" afterPath="$PROJECT_DIR$/HackerEarth/Circuits/June19.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +25,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HackerEarth/Circuits/June19.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="113" column="61" selection-start-line="113" selection-start-column="61" selection-end-line="113" selection-end-column="61" />
+            <state relative-caret-position="660">
+              <caret line="147" column="22" lean-forward="true" selection-start-line="147" selection-start-column="22" selection-end-line="147" selection-end-column="22" />
+              <folding>
+                <element signature="e#97#441#0" />
+                <element signature="e#488#892#0" />
+                <element signature="e#927#1115#0" />
+                <element signature="e#1167#3473#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -55,6 +60,8 @@
     <findStrings>
       <find>rotat</find>
       <find>rotate</find>
+      <find>538423490768889441577548</find>
+      <find>5384234530792477</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -94,7 +101,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="669" />
     <option name="height" value="1050" />
   </component>
@@ -446,17 +453,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.2950058" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Debug" order="3" weight="0.29554996" />
+      <window_info anchor="bottom" id="Inspection Results" weight="0.32959184" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Python Console" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32941177" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.17142858" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32929516" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
@@ -467,22 +475,11 @@
       <window_info anchor="right" id="Commander" order="2" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
-      <window_info anchor="right" id="Run" order="5" visible="true" weight="0.1001221" />
+      <window_info active="true" anchor="right" id="Run" order="5" visible="true" weight="0.36568987" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HackerEarth/Circuits/June19.py</url>
-          <line>114</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/secondA.ipynb" />
@@ -596,8 +593,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HackerEarth/Circuits/June19.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="113" column="61" selection-start-line="113" selection-start-column="61" selection-end-line="113" selection-end-column="61" />
+        <state relative-caret-position="660">
+          <caret line="147" column="22" lean-forward="true" selection-start-line="147" selection-start-column="22" selection-end-line="147" selection-end-column="22" />
+          <folding>
+            <element signature="e#97#441#0" />
+            <element signature="e#488#892#0" />
+            <element signature="e#927#1115#0" />
+            <element signature="e#1167#3473#0" />
+          </folding>
         </state>
       </provider>
     </entry>

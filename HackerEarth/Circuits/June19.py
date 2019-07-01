@@ -140,3 +140,84 @@ def gcdproblem():
 
 
 # gcdproblem()
+
+
+def function_value():
+    T, P = [int(x) for x in input().split()]
+
+    for t in range(T):
+        L, R = [int(x) for x in input().split()]
+        if L == 1:
+            # ans = 2
+            expo = (R - 1) // 2 if R % 2 == 0 else R // 2
+            Rs1 = (3 * (pow(3, expo, P) - 1)) // 2
+            Rs2 = (Rs1 // 2) + ((R // 2) + 1) if (R // 2) % 2 == 0 else ((Rs1 - 1) // 2) + (R // 2)
+            ans = Rs1 + Rs2
+        else:
+            Rexpo = (R - 1) // 2 if R % 2 == 0 else R // 2
+            Rs1 = (3 * (pow(3, Rexpo, P) - 1)) // 2
+            Rs2 = (Rs1 // 2) + ((R // 2) + 1) if (R // 2) % 2 == 0 else ((Rs1 - 1) // 2) + (R // 2)
+            Lexpo = (L - 1) // 2 if L % 2 == 0 else L // 2
+            Ls1 = (3 * (pow(3, Lexpo, P) - 1)) // 2
+            Ls2 = (Ls1 // 2) + ((L // 2) + 1) if (L // 2) % 2 == 0 else ((Ls1 - 1) // 2) + (L // 2)
+            ans = (Rs1 + Rs2) - (Ls1 + Ls2)
+
+        print(ans % P)
+
+
+function_value()
+
+"""
+
+
+
+"""
+
+
+def function_value_2():
+    T, P = [int(x) for x in input().split()]
+
+    for t in range(T):
+        L, R = [int(x) for x in input().split()]
+        ans = 0
+        odd_func_value = 1
+        even_func_value = 1
+        for N in range(L, (R + 1)):
+            if N > 2:
+                if N % 2 != 0:
+                    odd_expo = N // 2
+                    if odd_func_value == 1:
+                        odd_func_value = pow(3, odd_expo, P)
+                        print(N, end=" ")
+                        print(" - ", end=" ")
+                        print(odd_func_value)
+                    else:
+                        print(N, end=" ")
+                        print(" - ", end=" ")
+                        odd_func_value = 3 * odd_func_value
+                        print(odd_func_value)
+                    ans += odd_func_value
+                else:
+                    if even_func_value == 1:  # when we don't have last even func value
+                        expo = N // 2
+                        Sn = (pow(3, expo, P) - 1) // 2
+                        if expo % 2 == 0:
+                            Sn += 3
+                        even_func_value = Sn
+                        print(N, end=" ")
+                        print(" - ", end=" ")
+                        print(even_func_value)
+                    else:
+                        print(N, end=" ")
+                        print(" - ", end=" ")
+                        even_func_value = ((2 * odd_func_value) - even_func_value) + 2
+                        print(even_func_value)
+                    ans += even_func_value
+            else:
+                ans += 1
+
+        print(divmod(ans, P))
+        print(ans)
+
+
+# function_value_2()
