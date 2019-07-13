@@ -1,3 +1,5 @@
+import sys
+
 
 def CHFM():
     T = int(input())
@@ -136,4 +138,39 @@ def PRTAGN():
                 print(even_count, len(S1) - even_count)
 
 
-PRTAGN()
+# PRTAGN()
+
+# brute force way first
+def CIRMERGE():
+
+    max_size = 9223372036854775807
+    T = int(input())
+
+    for t in range(T):
+
+        N = int(input())
+        A = [int(x) for x in input().split()]
+        ANS = 0
+
+        while len(A) > 1:
+            min_sum = max_size
+            j = 0
+
+            l = []
+            for i in range(len(A)):
+                if A[i] + A[(i + 1) % len(A)] <= min_sum:
+                    min_sum = A[i] + A[(i + 1) % len(A)]
+                    j = i
+
+            A.insert(j, min_sum)
+            # A.remove(A[j + 1]) # remove left
+            del A[j+1]
+            # A.remove(A[(j + 1) % len(A)]) # remove right adjacent to left
+            del A[(j+1) % len(A)]
+
+            ANS += min_sum
+
+        print(ANS)
+
+
+# CIRMERGE()
