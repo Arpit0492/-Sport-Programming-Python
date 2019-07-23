@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20011787-ee1c-416a-93a5-bb0e32f60f85" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Code Chef/LongChallenge/JULY19.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code Chef/LongChallenge/JULY19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerEarth/Circuits/July19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,14 +24,36 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Code Chef/LongChallenge/JULY19.py">
+        <entry file="file://$PROJECT_DIR$/HackerEarth/Circuits/July19.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="798">
-              <caret line="175" column="12" selection-start-line="175" selection-start-column="12" selection-end-line="175" selection-end-column="12" />
+            <state relative-caret-position="558">
+              <caret line="68" column="11" lean-forward="true" selection-start-line="68" selection-start-column="11" selection-end-line="68" selection-end-column="11" />
               <folding>
-                <element signature="e#18#680#0" />
-                <element signature="e#631#1479#0" />
-                <element signature="e#1438#1476#1" />
+                <element signature="e#1#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.conda/envs/sport-programming-python/lib/python3.6/random.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="751" selection-start-line="751" selection-end-line="751" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HackerEarth/Circuits/June19.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-207">
+              <caret line="144" column="18" selection-start-line="144" selection-start-column="18" selection-end-line="144" selection-end-column="18" />
+              <folding>
+                <element signature="e#97#441#0" />
+                <element signature="e#488#892#0" />
+                <element signature="e#927#1115#0" />
+                <element signature="e#1167#3473#0" />
               </folding>
             </state>
           </provider>
@@ -52,6 +75,8 @@
       <find>rotate</find>
       <find>538423490768889441577548</find>
       <find>5384234530792477</find>
+      <find>mod</find>
+      <find>pow</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -83,6 +108,7 @@
         <option value="$PROJECT_DIR$/Code Chef/LongChallenge/JUNE19.py" />
         <option value="$PROJECT_DIR$/HackerEarth/Circuits/June19.py" />
         <option value="$PROJECT_DIR$/Code Chef/LongChallenge/JULY19.py" />
+        <option value="$PROJECT_DIR$/HackerEarth/Circuits/July19.py" />
       </list>
     </option>
   </component>
@@ -92,7 +118,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="1027" />
@@ -121,8 +147,13 @@
             <path>
               <item name="sport-programming-python" type="b2602c69:ProjectViewProjectNode" />
               <item name="sport-programming-python" type="462c0819:PsiDirectoryNode" />
-              <item name="Code Chef" type="462c0819:PsiDirectoryNode" />
-              <item name="LongChallenge" type="462c0819:PsiDirectoryNode" />
+              <item name="HackerEarth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sport-programming-python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sport-programming-python" type="462c0819:PsiDirectoryNode" />
+              <item name="HackerEarth" type="462c0819:PsiDirectoryNode" />
+              <item name="Circuits" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -155,7 +186,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.JULY19">
+  <component name="RunManager" selected="Python.July19">
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -236,7 +267,7 @@
       <envs />
       <method />
     </configuration>
-    <configuration name="JULY19" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="July19" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="compProg" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -244,12 +275,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code Chef/LongChallenge" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HackerEarth/Circuits" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code Chef/LongChallenge/JULY19.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerEarth/Circuits/July19.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -346,28 +377,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="roadies" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="compProg" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeGladiators" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeGladiators/roadies.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="Tox" factoryName="Tox">
       <module name="compProg" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -415,19 +424,17 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.June19" />
       <item itemvalue="Python.PROXYC" />
       <item itemvalue="Python.elections" />
-      <item itemvalue="Python.roadies" />
-      <item itemvalue="Python.June19" />
-      <item itemvalue="Python.JULY19" />
+      <item itemvalue="Python.July19" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.JULY19" />
+        <item itemvalue="Python.July19" />
         <item itemvalue="Python.June19" />
         <item itemvalue="Python.PROXYC" />
         <item itemvalue="Python.elections" />
-        <item itemvalue="Python.roadies" />
       </list>
     </recent_temporary>
   </component>
@@ -445,13 +452,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.1935287" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1953602" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info id="Debug" order="3" visible="true" weight="0.2014652" />
+      <window_info id="Debug" order="3" weight="0.2014652" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Python Console" order="2" />
@@ -467,7 +474,7 @@
       <window_info anchor="right" id="Commander" order="2" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
-      <window_info active="true" anchor="right" id="Run" order="5" visible="true" weight="0.1916972" />
+      <window_info anchor="right" id="Run" order="5" visible="true" weight="0.1941392" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -585,19 +592,6 @@
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/math.pyi">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/HackerEarth/Circuits/June19.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="147" column="22" selection-start-line="147" selection-start-column="22" selection-end-line="147" selection-end-column="22" />
-          <folding>
-            <element signature="e#97#441#0" />
-            <element signature="e#488#892#0" />
-            <element signature="e#927#1115#0" />
-            <element signature="e#1167#3473#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Code Chef/LongChallenge/JUNE19.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1350">
@@ -628,12 +622,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Code Chef/LongChallenge/JULY19.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="175" column="12" selection-start-line="175" selection-start-column="12" selection-end-line="175" selection-end-column="12" />
+        <state relative-caret-position="1650">
+          <caret line="110" column="22" selection-start-line="110" selection-start-column="21" selection-end-line="110" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerEarth/Circuits/June19.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-207">
+          <caret line="144" column="18" selection-start-line="144" selection-start-column="18" selection-end-line="144" selection-end-column="18" />
           <folding>
-            <element signature="e#18#680#0" />
-            <element signature="e#631#1479#0" />
-            <element signature="e#1438#1476#1" />
+            <element signature="e#97#441#0" />
+            <element signature="e#488#892#0" />
+            <element signature="e#927#1115#0" />
+            <element signature="e#1167#3473#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.conda/envs/sport-programming-python/lib/python3.6/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="751" selection-start-line="751" selection-end-line="751" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerEarth/Circuits/July19.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="68" column="11" lean-forward="true" selection-start-line="68" selection-start-column="11" selection-end-line="68" selection-end-column="11" />
+          <folding>
+            <element signature="e#1#12#0" expanded="true" />
           </folding>
         </state>
       </provider>
