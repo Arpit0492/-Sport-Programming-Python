@@ -1,6 +1,8 @@
 
 import math
 import random
+from itertools import product
+
 
 def super_balanced_bracket():
 
@@ -80,9 +82,25 @@ def tiredness():
 # tiredness()
 
 
-# def strength_of_game():
-#     n, m = [int(x) for x in input().split()]
-#     S = [int(x) for x in input().split()]
-#     for X in range(m+1):
-#         for item in S:
-#
+def strength_of_game():
+    n, m = [int(x) for x in input().split()]
+    S = [int(x) for x in input().split()]
+    combs = []
+    for skill_level in S:
+        combs.append([j for j in range(0, skill_level + 1)])
+
+    tuples_arr = product(*combs)
+    xor_list = []
+
+    for i in tuples_arr:
+        xor = 0
+        for j in i:
+            xor ^= j
+        xor_list.append(xor)
+
+    mod = int(1e9+7)
+    for i in range(m + 1):
+        print(xor_list.count(i) % mod, end=' ')
+
+
+# strength_of_game()
