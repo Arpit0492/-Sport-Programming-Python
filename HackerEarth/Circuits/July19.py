@@ -1,7 +1,7 @@
 
 import math
 import random
-from itertools import product
+from itertools import product, permutations
 
 
 def super_balanced_bracket():
@@ -36,15 +36,27 @@ def special_binary_tree():
     mod = int(1e9+7)
     for _ in range(T):
         N = int(input())
-        print(pow(N, N-2, mod))
+        # print(pow(N, N-2, mod))
+        s = str()
+        for i in range(2, N+1):
+            s += str(i)
+
+        permList = permutations(s)
+        ii = 0
+        for perm in permList:
+            ii += 1
+            print(perm)
+        print(ii)
 
 
-# special_binary_tree()
+special_binary_tree()
 
 
 """
 2,[3 - 2o, 1e] -> 2
 6,[7 - 4o, 3e] -> 144
+8 -> 4608
+9 -> 
 14,[15 - 8o, 7e] -> 203212800
 30,[31 - 16o,15e]
 62,[63 - 32o,31e]
