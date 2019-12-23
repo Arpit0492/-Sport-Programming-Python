@@ -2,10 +2,497 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20011787-ee1c-416a-93a5-bb0e32f60f85" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Easy/addNumber.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compProg.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compProg.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code Chef/LongChallenge/AUG19.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code Chef/LongChallenge/AUG19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/Next Closest Time.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Next Closest Time.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/.idea/Sport-Programming-with-Python.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/.Python" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/bin/activate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/bin/activate.csh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/bin/activate.fish" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/bin/activate_this.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/bin/easy_install" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/bin/easy_install-2.7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/bin/pip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/bin/pip2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/bin/pip2.7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/bin/python" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/bin/python-config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/bin/python2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/bin/python2.7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/bin/wheel" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/include/python2.7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/UserDict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/_abcoll.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/_weakrefset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/abc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/codecs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/copy_reg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/distutils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/distutils/distutils.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/encodings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/fnmatch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/genericpath.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/lib-dynload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/linecache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/locale.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/no-global-site-packages.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/ntpath.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/orig-prefix.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/os.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/posixpath.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/re.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/easy_install.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip-18.1.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip-18.1.dist-info/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip-18.1.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip-18.1.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip-18.1.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip-18.1.dist-info/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip-18.1.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/__main__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/build_env.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/cli/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/cli/autocompletion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/cli/base_command.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/cli/cmdoptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/cli/main_parser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/cli/parser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/cli/status_codes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/commands/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/commands/check.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/commands/completion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/commands/configuration.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/commands/download.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/commands/freeze.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/commands/hash.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/commands/help.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/commands/install.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/commands/list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/commands/search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/commands/show.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/commands/uninstall.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/commands/wheel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/configuration.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/download.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/locations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/models/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/models/candidate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/models/format_control.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/models/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/models/link.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/operations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/operations/check.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/operations/freeze.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/operations/prepare.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/pep425tags.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/pyproject.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/req/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/req/constructors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/req/req_file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/req/req_install.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/req/req_set.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/req/req_tracker.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/req/req_uninstall.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/resolve.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/utils/appdirs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/utils/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/utils/deprecation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/utils/encoding.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/utils/filesystem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/utils/glibc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/utils/hashes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/utils/logging.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/utils/misc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/utils/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/utils/outdated.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/utils/packaging.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/utils/setuptools_build.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/utils/temp_dir.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/utils/typing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/utils/ui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/vcs/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/vcs/bazaar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/vcs/git.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/vcs/mercurial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/vcs/subversion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_internal/wheel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/appdirs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/cachecontrol/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/cachecontrol/_cmd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/cachecontrol/adapter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/cachecontrol/cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/cachecontrol/caches/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/cachecontrol/caches/redis_cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/cachecontrol/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/cachecontrol/controller.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/cachecontrol/filewrapper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/cachecontrol/heuristics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/cachecontrol/serialize.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/cachecontrol/wrapper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/certifi/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/certifi/__main__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/certifi/cacert.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/certifi/core.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/big5freq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/big5prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/chardistribution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/charsetgroupprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/charsetprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/cli/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/cli/chardetect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/codingstatemachine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/cp949prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/enums.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/escprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/escsm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/eucjpprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/euckrfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/euckrprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/euctwfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/euctwprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/gb2312freq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/gb2312prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/hebrewprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/jisfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/jpcntx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/langbulgarianmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/langcyrillicmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/langgreekmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/langhebrewmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/langhungarianmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/langthaimodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/langturkishmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/latin1prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/mbcharsetprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/mbcsgroupprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/mbcssm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/sbcharsetprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/sbcsgroupprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/sjisprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/universaldetector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/utf8prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/chardet/version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/colorama/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/colorama/ansi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/colorama/ansitowin32.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/colorama/initialise.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/colorama/win32.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/colorama/winterm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/distlib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/distlib/_backport/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/distlib/_backport/misc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/distlib/_backport/shutil.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/distlib/_backport/sysconfig.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/distlib/_backport/sysconfig.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/distlib/_backport/tarfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/distlib/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/distlib/database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/distlib/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/distlib/locators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/distlib/manifest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/distlib/markers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/distlib/metadata.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/distlib/resources.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/distlib/scripts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/distlib/t32.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/distlib/t64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/distlib/util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/distlib/version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/distlib/w32.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/distlib/w64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/distlib/wheel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/distro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/_ihatexml.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/_inputstream.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/_tokenizer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/_trie/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/_trie/_base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/_trie/datrie.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/_trie/py.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/constants.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/alphabeticalattributes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/inject_meta_charset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/lint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/optionaltags.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/sanitizer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/whitespace.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/html5parser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/serializer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treeadapters/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treeadapters/genshi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treeadapters/sax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/dom.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/etree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/etree_lxml.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treewalkers/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treewalkers/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treewalkers/dom.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treewalkers/etree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treewalkers/etree_lxml.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treewalkers/genshi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/idna/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/idna/codec.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/idna/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/idna/core.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/idna/idnadata.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/idna/intranges.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/idna/package_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/idna/uts46data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/ipaddress.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/lockfile/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/lockfile/linklockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/lockfile/mkdirlockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/lockfile/pidlockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/lockfile/sqlitelockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/lockfile/symlinklockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/msgpack/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/msgpack/_version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/msgpack/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/msgpack/fallback.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/packaging/__about__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/packaging/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/packaging/_compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/packaging/_structures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/packaging/markers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/packaging/requirements.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/packaging/specifiers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/packaging/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/packaging/version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/pep517/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/pep517/_in_process.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/pep517/check.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/pep517/colorlog.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/pep517/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/pep517/envbuild.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/pep517/wrappers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/pkg_resources/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/pkg_resources/py31compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/progress/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/progress/bar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/progress/counter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/progress/helpers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/progress/spinner.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/pyparsing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/pytoml/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/pytoml/core.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/pytoml/parser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/pytoml/writer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/requests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/requests/__version__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/requests/_internal_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/requests/adapters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/requests/api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/requests/auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/requests/certs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/requests/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/requests/cookies.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/requests/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/requests/help.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/requests/hooks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/requests/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/requests/sessions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/requests/status_codes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/requests/structures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/requests/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/retrying.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/six.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/_collections.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/connection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/connectionpool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/contrib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/contrib/_securetransport/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/contrib/_securetransport/bindings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/contrib/_securetransport/low_level.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/contrib/appengine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/contrib/ntlmpool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/contrib/pyopenssl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/contrib/securetransport.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/contrib/socks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/fields.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/filepost.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/packages/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/packages/backports/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/packages/backports/makefile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/packages/ordered_dict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/packages/six.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/packages/ssl_match_hostname/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/packages/ssl_match_hostname/_implementation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/poolmanager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/request.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/response.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/util/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/util/connection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/util/queue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/util/request.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/util/response.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/util/retry.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/util/ssl_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/util/timeout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/util/url.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/util/wait.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/webencodings/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/webencodings/labels.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/webencodings/mklabels.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/webencodings/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pip/_vendor/webencodings/x_user_defined.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pkg_resources/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pkg_resources/_vendor/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pkg_resources/_vendor/appdirs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/__about__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/_compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/_structures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/markers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/requirements.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/specifiers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pkg_resources/_vendor/pyparsing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pkg_resources/_vendor/six.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pkg_resources/extern/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/pkg_resources/py31compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools-40.6.2.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools-40.6.2.dist-info/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools-40.6.2.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools-40.6.2.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools-40.6.2.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools-40.6.2.dist-info/dependency_links.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools-40.6.2.dist-info/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools-40.6.2.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools-40.6.2.dist-info/zip-safe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/_deprecation_warning.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/_vendor/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/_vendor/packaging/__about__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/_vendor/packaging/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/_vendor/packaging/_compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/_vendor/packaging/_structures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/_vendor/packaging/markers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/_vendor/packaging/requirements.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/_vendor/packaging/specifiers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/_vendor/packaging/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/_vendor/packaging/version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/_vendor/pyparsing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/_vendor/six.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/archive_util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/build_meta.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/cli-32.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/cli-64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/cli.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/command/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/command/alias.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/command/bdist_egg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/command/bdist_rpm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/command/bdist_wininst.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/command/build_clib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/command/build_ext.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/command/build_py.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/command/develop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/command/dist_info.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/command/easy_install.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/command/egg_info.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/command/install.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/command/install_egg_info.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/command/install_lib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/command/install_scripts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/command/launcher manifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/command/py36compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/command/register.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/command/rotate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/command/saveopts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/command/sdist.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/command/setopt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/command/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/command/upload.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/command/upload_docs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/dep_util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/depends.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/dist.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/extension.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/extern/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/glibc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/glob.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/gui-32.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/gui-64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/gui.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/launch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/lib2to3_ex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/monkey.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/msvc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/namespaces.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/package_index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/pep425tags.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/py27compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/py31compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/py33compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/py36compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/sandbox.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/script (dev).tmpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/script.tmpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/site-patch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/ssl_support.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/unicode_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/wheel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/setuptools/windows_support.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/wheel-0.32.3.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/wheel-0.32.3.dist-info/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/wheel-0.32.3.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/wheel-0.32.3.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/wheel-0.32.3.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/wheel-0.32.3.dist-info/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/wheel-0.32.3.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/wheel/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/wheel/__main__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/wheel/bdist_wheel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/wheel/cli/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/wheel/cli/convert.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/wheel/cli/install.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/wheel/cli/pack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/wheel/cli/unpack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/wheel/metadata.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/wheel/pep425tags.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/wheel/pkginfo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/wheel/util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site-packages/wheel/wheelfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/site.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/sre.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/sre_compile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/sre_constants.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/sre_parse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/stat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/types.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/lib/python2.7/warnings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sport-Programming-with-Python/venv/pip-selfcheck.json" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,11 +512,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Code Chef/LongChallenge/AUG19.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Easy/addNumber.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+            <state relative-caret-position="285">
+              <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/Next Closest Time.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -71,7 +567,6 @@
         <option value="$PROJECT_DIR$/Hackerrank/Geometric Trick.py" />
         <option value="$PROJECT_DIR$/HackerEarth/Python Challenge/Que1.py" />
         <option value="$PROJECT_DIR$/HackerEarth/MayCircuits.py" />
-        <option value="$PROJECT_DIR$/LeetCode/Next Closest Time.py" />
         <option value="$PROJECT_DIR$/HackerEarth/Hiring/finding_number_of_good_pairs.py" />
         <option value="$PROJECT_DIR$/Sport-Programming-with-Python/HackerEarth/Circuits/Nov'18/Addition_Errors.py" />
         <option value="$PROJECT_DIR$/HackerEarth/Circuits/Nov'18/Addition_Errors.py" />
@@ -85,6 +580,8 @@
         <option value="$PROJECT_DIR$/Code Chef/LongChallenge/JULY19.py" />
         <option value="$PROJECT_DIR$/HackerEarth/Circuits/July19.py" />
         <option value="$PROJECT_DIR$/Code Chef/LongChallenge/AUG19.py" />
+        <option value="$PROJECT_DIR$/LeetCode/Next Closest Time.py" />
+        <option value="$PROJECT_DIR$/Easy/addNumber.py" />
       </list>
     </option>
   </component>
@@ -94,11 +591,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="196" />
-    <option name="y" value="6" />
-    <option name="width" value="1509" />
-    <option name="height" value="1000" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="1440" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -108,35 +604,34 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="sport-programming-python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sport-programming-python" type="462c0819:PsiDirectoryNode" />
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="sport-programming-python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sport-programming-python" type="462c0819:PsiDirectoryNode" />
-              <item name="HackerEarth" type="462c0819:PsiDirectoryNode" />
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="CodeGladiators" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="sport-programming-python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sport-programming-python" type="462c0819:PsiDirectoryNode" />
-              <item name="HackerEarth" type="462c0819:PsiDirectoryNode" />
-              <item name="Circuits" type="462c0819:PsiDirectoryNode" />
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -158,7 +653,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.AUG19">
+  <component name="RunManager" selected="Python.addNumber">
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -305,28 +800,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PROXYC" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="compProg" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code Chef/LongChallenge" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code Chef/LongChallenge/JUNE19.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="compProg" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -341,6 +814,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="addNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="compProg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Easy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Easy/addNumber.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -418,19 +913,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.PROXYC" />
       <item itemvalue="Python.elections" />
       <item itemvalue="Python.July19" />
       <item itemvalue="Python.June19" />
       <item itemvalue="Python.AUG19" />
+      <item itemvalue="Python.addNumber" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.addNumber" />
         <item itemvalue="Python.AUG19" />
         <item itemvalue="Python.July19" />
         <item itemvalue="Python.June19" />
         <item itemvalue="Python.elections" />
-        <item itemvalue="Python.PROXYC" />
       </list>
     </recent_temporary>
   </component>
@@ -456,17 +951,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
-    <editor active="true" />
+    <frame x="1440" y="0" width="1920" height="1080" extended-state="0" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.15262516" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.115015976" />
       <window_info id="Structure" order="2" weight="0.25" />
-      <window_info id="Debug" order="3" weight="0.17395833" />
+      <window_info id="Debug" order="3" weight="0.17358893" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" weight="0.32995495" />
-      <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="bottom" id="Python Console" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.20855615" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="1" visible="true" weight="0.32970297" />
+      <window_info anchor="bottom" id="Python Console" order="2" weight="0.32970297" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.20792079" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
@@ -477,7 +971,7 @@
       <window_info anchor="right" id="Commander" order="2" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
-      <window_info active="true" anchor="right" id="Run" order="5" visible="true" weight="0.24481075" />
+      <window_info anchor="right" id="Run" order="5" visible="true" weight="0.24440895" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -491,7 +985,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$USER_HOME$/.conda/envs/sport-programming-python/lib/python3.6/statistics.py</url>
+          <url>file://$PROJECT_DIR$/../.conda/envs/sport-programming-python/lib/python3.6/statistics.py</url>
           <line>268</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
@@ -505,8 +999,8 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/secondA.ipynb" />
-    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-1798730815/_collections.py" />
-    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-1798730815/builtins.py" />
+    <entry file="file://$PROJECT_DIR$/../.PyCharm2017.1/system/python_stubs/-1798730815/_collections.py" />
+    <entry file="file://$PROJECT_DIR$/../.PyCharm2017.1/system/python_stubs/-1798730815/builtins.py" />
     <entry file="file://$PROJECT_DIR$/Code Chef/TEMPLELA.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -542,13 +1036,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/Next Closest Time.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HackerEarth/Hiring/finding_number_of_good_pairs.py" />
     <entry file="file://$PROJECT_DIR$/HackerEarth/Circuits/Nov'18/Addition_Errors.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -557,7 +1044,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/238482084/builtins.py" />
+    <entry file="file://$PROJECT_DIR$/../.PyCharmCE2017.3/system/python_stubs/238482084/builtins.py" />
     <entry file="file://$PROJECT_DIR$/HackerEarth/Circuits/Nov'18/Ratio.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -572,7 +1059,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeGladiators/roadies.py" />
     <entry file="file://$PROJECT_DIR$/Code Chef/SNAKPROC.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -580,7 +1066,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeGladiators/elections.py" />
     <entry file="file://$PROJECT_DIR$/Code Chef/LongChallenge/JUNE19.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1350">
@@ -588,9 +1073,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.conda/envs/sport-programming-python/lib/python3.6/statistics.py" />
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.3/python_stubs/-1912469610/builtins.py" />
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.3/python_stubs/-1912469610/sys.py" />
+    <entry file="file://$PROJECT_DIR$/../.conda/envs/sport-programming-python/lib/python3.6/statistics.py" />
+    <entry file="file://$PROJECT_DIR$/../Library/Caches/PyCharmCE2018.3/python_stubs/-1912469610/builtins.py" />
+    <entry file="file://$PROJECT_DIR$/../Library/Caches/PyCharmCE2018.3/python_stubs/-1912469610/sys.py" />
     <entry file="file://$PROJECT_DIR$/Code Chef/LongChallenge/JULY19.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1650">
@@ -598,8 +1083,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.conda/envs/sport-programming-python/lib/python3.6/random.py" />
-    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/238482084/itertools.py" />
+    <entry file="file://$PROJECT_DIR$/../.conda/envs/sport-programming-python/lib/python3.6/random.py" />
+    <entry file="file://$PROJECT_DIR$/../.PyCharmCE2017.3/system/python_stubs/238482084/itertools.py" />
     <entry file="file://$PROJECT_DIR$/HackerEarth/Circuits/June19.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="733">
@@ -619,8 +1104,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Code Chef/LongChallenge/AUG19.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+        <state relative-caret-position="480">
+          <caret line="32" column="11" lean-forward="true" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeGladiators/roadies.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeGladiators/elections.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyI/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/addNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/Next Closest Time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
